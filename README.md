@@ -45,9 +45,9 @@ Para este análisis se utilizó **Python** con las siguientes librerías:
 ---
 
 ## 📈 Visualizaciones Destacadas
-| ROI vs Madurez Digital | Capacitación vs Defectos |
-| :--- | :--- |
-| ![ROI](visuals/01_roi_vs_madurez.png) | ![Capacitación](visuals/02_impacto_capacitacion.png) |
+| ROI vs Madurez Digital |
+| :--- | 
+| ![ROI](visuals/01_roi_vs_madurez.png) 
 
 ---
 
