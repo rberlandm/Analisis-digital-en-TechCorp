@@ -17,7 +17,7 @@ El proyecto está organizado de la siguiente manera para facilitar su replicabil
 
 * 📂 `data/`: Contiene el dataset original `05. transformacion_digital_dataset.csv`.
 * 📂 `notebooks/`: Jupyter Notebook con el proceso de limpieza, EDA (Análisis Exploratorio de Datos) y visualización.
-* 📂 `reports/`: Gráficos exportados y el resumen ejecutivo en formato visual.
+* 📂 `visuals/`: Gráficos exportados y el resumen ejecutivo en formato visual.
 * 📄 `README.md`: Documentación principal y narrativa del proyecto.
 
 ---
@@ -47,7 +47,7 @@ Para este análisis se utilizó **Python** con las siguientes librerías:
 ## 📈 Visualizaciones Destacadas
 | ROI vs Madurez Digital | Capacitación vs Defectos |
 | :--- | :--- |
-| ![ROI](reports/01_roi_vs_madurez.png) | ![Capacitación](reports/02_impacto_capacitacion.png) |
+| ![ROI](visuals/01_roi_vs_madurez.png) | ![Capacitación](visuals/02_impacto_capacitacion.png) |
 
 ---
 
