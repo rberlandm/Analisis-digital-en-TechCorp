@@ -1,18 +1,13 @@
-# Transformación Digital en TechCorp: Un Análisis de 18 Meses
+Transformación Digital en TechCorp: ¿Inversión o Gasto? 🚀
+Resumen del Proyecto
+Este análisis evalúa los primeros 18 meses de la transformación digital de TechCorp. El objetivo es determinar si la inversión tecnológica está generando valor real o si las barreras culturales están frenando el progreso.
 
-## 📌 Resumen del Proyecto
-[cite_start]Este proyecto analiza el impacto de la transformación digital en TechCorp tras 18 meses de implementación[cite: 10]. [cite_start]El objetivo es presentar una narrativa estratégica al CEO para decidir la continuidad de la inversión[cite: 10].
+El Problema de Negocio
+TechCorp ha invertido significativamente en tecnología y capacitación, pero el CEO observa resultados mixtos. Mi rol fue analizar los KPIs para identificar cuellos de botella y éxitos tempranos.
 
-## 📊 Insights Clave (Basados en el Dataset)
-* [cite_start]**Éxito Operativo:** Aumento de la productividad de manufactura y reducción de la tasa de defectos[cite: 52].
-* [cite_start]**Impacto en el Cliente:** Mejora significativa en el NPS y reducción de tiempos de entrega[cite: 52].
-* [cite_start]**Riesgo Humano:** Incremento en la rotación de personal y resistencia al cambio[cite: 52].
+Hallazgos Clave (Insights)
+Productividad vs. Resistencia: Mientras la digitalización de procesos subió del 15% al 75%, la resistencia al cambio alcanzó picos críticos en el mes 12.
 
-## 🛠️ Herramientas Utilizadas
-* [cite_start]**Análisis de Datos:** Excel / Python (Pandas)[cite: 53].
-* [cite_start]**Visualización:** Power BI / Tableau[cite: 53].
-* [cite_start]**Estructura Narrativa:** Storytelling de datos (Inicio, Nudo, Desenlace)[cite: 23].
+Eficiencia Operativa: El ROI pasó de -15% a un saludable +12.5% en 18 meses.
 
-## 📂 Contenido del Repositorio
-* [cite_start]`data/`: Dataset con KPIs de productividad, costos y satisfacción[cite: 52].
-* [cite_start]`reportes/`: Documentos con la narrativa, presentación y storyboard ejecutivo.
+El Factor Humano: Existe una correlación directa entre la inversión en capacitación y la reducción de la tasa de defectos.
