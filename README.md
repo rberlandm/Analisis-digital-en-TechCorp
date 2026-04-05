@@ -60,8 +60,8 @@ Para este análisis se utilizó **Python** con las siguientes librerías:
 
 ## 👤 Autor
 * Ricardo Berland M.
-* https://www.linkedin.com/in/rberlandm/
-* [Portafolio Web](https://tu-sitio-web.com)
+* [LinkedIN](https://www.linkedin.com/in/rberlandm/)
+* [Email](mailto:ricardo.berland@gmail.com)
 
 ---
 *Este proyecto fue desarrollado como parte del módulo de Analista de Datos de TechCorp.*
