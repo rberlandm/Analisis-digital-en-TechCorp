@@ -59,8 +59,8 @@ Para este análisis se utilizó **Python** con las siguientes librerías:
 ---
 
 ## 👤 Autor
-* **Tu Nombre**
-* [LinkedIn](https://linkedin.com/in/tu-usuario)
+* Ricardo Berland M.
+* https://www.linkedin.com/in/rberlandm/
 * [Portafolio Web](https://tu-sitio-web.com)
 
 ---
